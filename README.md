@@ -19,8 +19,8 @@ Whether it's LeetCode, Codeforces, GeeksforGeeks, or random mock questions — t
 
 | ID         | Problem Name                           | Difficulty | Learnings |
 |------------|----------------------------------------|------------|-----------|
-|            |                                        |            |           |
-|            |                                        |            |           |
+|      LC - 179      |              Largest Number                          |      Medium      |      Consider and think about extremes     |
+|     GFG - Second Largest       |            Second Largest                             |   Easy         |    Think about Optimal Soln       |
 |            |                                        |            |           |
 |            |                                        |            |           |
 |            |                                        |            |           |
