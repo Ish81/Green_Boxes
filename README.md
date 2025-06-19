@@ -21,7 +21,7 @@ Whether it's LeetCode, Codeforces, GeeksforGeeks, or random mock questions — t
 |------------|----------------------------------------|------------|-----------|
 |      LC - 179      |              Largest Number                          |      Medium      |      Consider and think about extremes     |
 |     GFG - Second Largest       |            Second Largest                             |   Easy         |    Think about Optimal Soln       |
-|            |                                        |            |           |
+|      GFG - Check if Array is Sorted      |            Check if Array is Sorted                               |       Easy     |      :)     |
 |            |                                        |            |           |
 |            |                                        |            |           |
 
