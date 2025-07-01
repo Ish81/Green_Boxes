@@ -23,7 +23,7 @@ Whether it's LeetCode, Codeforces, GeeksforGeeks, or random mock questions — t
 |     GFG - Second Largest       |            Second Largest                             |   Easy         |    Think about Optimal Soln       |
 |      GFG - Check if Array is Sorted      |            Check if Array is Sorted                               |       Easy     |      :)     |
 |       LC - 1752     |               Check if Array is Sorted                         |    Easy        |    Mod operator       |
-|      LC - 26      |              Remove duplicates from Sorted array                          |     Easy       |      Two- Pointer approach     |
+|      LC - 26      |              Remove duplicates from Sorted array                          |     Easy       |      Two-Pointer approach     |
 
 ---
 
