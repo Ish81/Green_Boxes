@@ -24,6 +24,7 @@ Whether it's LeetCode, Codeforces, GeeksforGeeks, or random mock questions — t
 |      GFG - Check if Array is Sorted      |            Check if Array is Sorted                               |       Easy     |      :)     |
 |       LC - 1752     |               Check if Array is Sorted                         |    Easy        |    Mod operator       |
 |      LC - 26      |              Remove duplicates from Sorted array                          |     Easy       |      Two-Pointer approach     |
+| GFG - Rotate Array by One  | Rotate Array by One   | Easy | Think about the first and last element |
 
 ---
 
