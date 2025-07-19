@@ -26,7 +26,7 @@ Whether it's LeetCode, Codeforces, GeeksforGeeks, or random mock questions — t
 |      LC - 26      |              Remove duplicates from Sorted array                          |     Easy       |      Two-Pointer approach     |
 | GFG - Rotate Array by One  | Rotate Array by One   | Easy | Think about the first and last element |
 | LC - 26 | Remove duplicates from Sorted array | Easy | :)) | 
-
+| GFG - Array Leaders | Array Leaders | Easy | Good for Revision | 
 ---
 
 ## 🧩 ID Legend
