@@ -27,6 +27,8 @@ Whether it's LeetCode, Codeforces, GeeksforGeeks, or random mock questions — t
 | GFG - Rotate Array by One  | Rotate Array by One   | Easy | Think about the first and last element |
 | LC - 26 | Remove duplicates from Sorted array | Easy | :)) | 
 | GFG - Array Leaders | Array Leaders | Easy | Good for Revision | 
+| GFG - Largest subarray with 0 sum | Largest subarray with 0 sum | Medium | Good for Revision for Kadane's Algo - modified version |
+
 ---
 
 ## 🧩 ID Legend
